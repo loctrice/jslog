@@ -10,6 +10,7 @@ var JsLoggerTypes = {
     Sword: 'Sword',
     Airplane: 'Airplane',
     TheTony: 'TheTony',
+    Happy: 'Happy',
     Random: 'Random'
 };
 
@@ -23,6 +24,7 @@ var JsLogStrings = {
     Knife: ')xxxxx[;;;;;;;;;>',
     Sword: '(===||:::::::::::::::>',
     TheTony: '>>>>>>>',
+    Happy: ' ۜ\(סּںסּَ` )/ۜ',
     Airplane: ' ‛¯¯٭٭¯¯(▫▫)¯¯٭٭¯¯’'
 };
 
