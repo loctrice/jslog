@@ -20,7 +20,8 @@ var JsLogStrings = {
     Shrug: '¯\_(ツ)_/¯',
     Sleeping: '(-.-)Zzz...',
     Knife: ')xxxxx[;;;;;;;;;>',
-    Sword: '(===||:::::::::::::::>'
+    Sword: '(===||:::::::::::::::>',
+    Airplane: ' ‛¯¯٭٭¯¯(▫▫)¯¯٭٭¯¯’'
 };
 
 /** Static object to call for logging (i.e. jslogger.log('msg', logtype)). */
